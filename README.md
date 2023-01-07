@@ -1,4 +1,10 @@
 
+### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Manikyala-Rao-Cherukuri)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikyala-rao-cherukuri-b72a5793/)
+
+
+
 # IBM Data Analyst Capstone Project:
 In this project, I have used the data collected as part of 2019 stack overflow developers survey [https://insights.stackoverflow.com/survey/].
 
@@ -54,9 +60,3 @@ These findings, will help us to understand what are the popular & desired techno
 By clicking this link
 [Project Completion Certificate](https://www.credly.com/badges/7eba9a61-0be5-4f60-a6f8-2a8be2a22b2c)
 you can see the badge.
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Manikyala-Rao-Cherukuri)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikyala-rao-cherukuri-b72a5793/)
-
-
